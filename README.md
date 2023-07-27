@@ -1,2 +1,2 @@
-# Storage-App
+# Detectika_Docs
 Detectika_Documentation
