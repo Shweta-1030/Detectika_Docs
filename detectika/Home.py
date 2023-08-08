@@ -1,5 +1,7 @@
 import streamlit as st
 
+st.set_page_config(layout="wide")
+
 st.title('DETECTIKA DOCUMENTATION')
 st.markdown("""
 NSEIT brings the power of fraud detection directly to your Snowflake account. Using Streamlit and Snowpark, the application enables you to detect fraudulent credit card transactions with no need to transfer files or share data outside of your Snowflake Data Cloud.
